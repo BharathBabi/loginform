@@ -1,0 +1,2 @@
+export const GET_EMPLOYEESLIST="GET_EMPLOYEESLIST";
+export const GET_LOGIN="GET_LOGIN";
